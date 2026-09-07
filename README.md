@@ -128,7 +128,7 @@ This ensures that restricted operations are controlled by the Super Admin.
 Risk identification is performed for each major project task.
 
 | Task                 | Risk                                   | Impact | Mitigation                            |
-| -------------------- | -------------------------------------- | ------ | ------------------------------------- |\
+| -------------------- | -------------------------------------- | ------ | ------------------------------------- |
 | Requirement Analysis | Requirements may be incomplete         | High   | Review requirements with stakeholders |
 | Project Planning     | Incorrect time estimation              | Medium | Create realistic task estimates       |
 | System Design        | Design may not meet requirements       | High   | Review design before development      |
